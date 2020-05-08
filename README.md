@@ -1,4 +1,4 @@
-## Assignment for Udacity Nanodegree
+## Assignment for Udacity Deep Learning Nanodegree
 Original Repo: [project-dog-classification](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)  
 
 The goal is to classify images into dog breeds with a CNN model, then transfer learning using VGG16. Image in, dog breed out. If supplied an image of a human, the algorithm will identify the resembling dog breed.

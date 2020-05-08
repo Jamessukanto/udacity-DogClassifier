@@ -23,4 +23,4 @@ Accuracy: 11% (97/836), 30 epochs
 
 ## 04. Classify Dog Breeds using Transfer Learning
 Model architecture that use part of a pre-trained VGG16  
-Accuracy: 77% (644/836), 15 epochs
+Accuracy: 80% (673/836), 15 epochs
